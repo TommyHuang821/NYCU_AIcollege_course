@@ -1,5 +1,5 @@
-# 國立陽明交通大學 AI學院 111學年度 第1學期 模組單元課程-Pytorch深度學習實作
- 
+# 國立陽明交通大學 AI學院 111學年度 第1學期 模組單元課程-Pytorch深度學習實作<br>
+[10/27線上課程連結](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGFhNTY5NjUtOTA5YS00NTYxLTg2MzEtODc1ZGNjMGIzNTli%40thread.v2/0?context=%7b%22Tid%22%3a%22f513945e-aef2-4313-9a61-24fe22a7450d%22%2c%22Oid%22%3a%2295a86c49-df5c-425c-8090-e852fadecd75%22%7d)<br>
 ## 公告: 
 評分方式: 出席率50%、作業20%、問答30%
 Test

@@ -40,4 +40,7 @@ tommy.huang@emc.com.tw<br>
 依據程式碼和說明的完整度來往上調分數。
 
 **期限: 2022/11/11** <br>
-111-1_HW_Pytorch深度學習實作_名字_學號
+
+作業繳交壓縮成一個檔案上傳，檔案名稱: **111-1_HW_Pytorch深度學習實作_名字_學號** <br>
+[作業繳交google drive Link](https://drive.google.com/drive/folders/1oYh7MMkY29AOx7pn6yUmn7FDziBWFp7u?usp=sharing)，如果登入不進去在跟我聯繫一下
+
